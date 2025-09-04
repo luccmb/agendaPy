@@ -5,8 +5,8 @@ Un proyecto básico de Python que nos permite agendar contactos, consultarlos, m
 Clonar el repositorio y ejecutarlo en VSC.
 
 # Carácteristicas del proyecto
-Nace de la idea de realizar una agenda personal.
-Se realiza un voceto previo, de que información requiero de mis contactos, lo cual resultó en los siguientes datos:
+Nace de la idea de realizar una agenda personal.  
+Se realiza un voceto previo de que información requiero de mis contactos, lo cual resultó en los siguientes datos:
 
 - NOMBRE
 * TELÉFONO
